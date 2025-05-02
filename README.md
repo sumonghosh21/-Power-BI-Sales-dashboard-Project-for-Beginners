@@ -1,2 +1,6 @@
-# -Power-BI-Sales-dashboard-Project-for-Beginners
-Designed a power bi dashboard for Madhav Store to track and analyze the online sales data acorss India.
+# Madhav_Store_PowerBI_Dashboard
+Professional Power Bi Dashboard
+
+Complete Power BI project using retail store sales data 
+
+Watch tutorial video on YouTube :)
